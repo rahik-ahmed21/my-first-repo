@@ -1,0 +1,13 @@
+h1{
+    background-color: aqua;
+    border-color: black;
+    border-top-style: outset;
+}
+p{
+    margin: 50px,50px;
+    font-style: italic;
+    font-size: medium;
+}
+.p1{
+    font-size: x-small;
+}
